@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# Custom input
+custom_data/product.json
+
+# Output
+out
